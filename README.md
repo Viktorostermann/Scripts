@@ -1,4 +1,4 @@
-# Repositorio de Ejemplos, trabajos, proyectos y colaboracion.
+# Repositorio de Practicas, trabajos, proyectos y colaboracion.
 
 <h1 align="left">
 <br>
