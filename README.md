@@ -1,2 +1,2 @@
-# proyecto1
-Repositorio ejemplo de proyecto en equipo
+# Script
+Repositorio ejemplo de proyectos personales y colaboraciones
