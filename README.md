@@ -6,14 +6,14 @@
 
 <div align="left">
 <img height="25" width="90" alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"><br>
-</br><small><p> 1 - Registro en Bucle While de dato o nombre: <br><li>🎯https://github.com/user-attachments/files/18756473/Funcion_registro_Nombre.txt </li></p>
+<small><p> 1 - Registro en Bucle While de dato o nombre: <br><li>🎯https://github.com/user-attachments/files/18756473/Funcion_registro_Nombre.txt </li></p>
 <small><p> 2 - Mensaje de Bienvenida a usuario: <br><li>🎯 https://github.com/user-attachments/files/18757492/Mensaje_bienvenida.txt </li></p>
 <small><p> 3 - Comportamiento Neurona: <br><li>🎯 https://github.com/user-attachments/files/18757514/Neurona.-.IA.txt </li></p>
 <p></p>
 <h1>
 </h1>
 <br/>
-</div>
+
 
 <div align="left">
 <img height="45" width="58" alt="arduino logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"><br>
@@ -23,7 +23,7 @@
 <h1>
 </h1>
 <br/>
-</div>
+
   
 <div align="left">
 <img height="50" width="50" alt="xls" src="https://github.com/user-attachments/assets/ba5dfdac-529e-4e55-b7ff-06de7759e667"><br/>
@@ -31,7 +31,7 @@
 <h1>
 </h1>
 <br/>
-</div>
+
   
 <div align="left">
 <img height="50" width="50" alt="Pj"  src="https://github.com/user-attachments/assets/7ef1ca23-5026-46b7-aed8-4be9588a4a6c"><br/>
