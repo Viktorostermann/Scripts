@@ -13,6 +13,9 @@
   <h1 align="left">
     <br>
   <li><img height="45" width="58" alt="arduino logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
-    
+    <br><small><p> 1 - Script_Semaforo_Arduino <br><li>🎯https://github.com/user-attachments/files/18760505/Semaforo_Con_Ultrasonido.txt</li></small><br/></p>
+    <br><small><p> 2 - Script_Semaforo_Arduino_2 <br><li>🎯https://github.com/user-attachments/files/18760585/SemaForo_21_08_23_V2_Final.txt</li></small><br/></p>
 <br/>
 </p>
+
+
