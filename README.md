@@ -12,13 +12,13 @@
 
 <div align="left">
 <img height="45" width="58" alt="arduino logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"><br><br>
-<small><p> 1 - Script_Semaforo_Arduino <br><li>🎯 https://github.com/user-attachments/files/18760505/Semaforo_Con_Ultrasonido.txt </li></ul></p>
-<small><p> 2 - Script_Semaforo_Arduino_2 <br><li>🎯 https://github.com/user-attachments/files/18760585/SemaForo_21_08_23_V2_Final.txt </li></ul></p>
+<small><p> 1 - Script_Semaforo_Arduino <br><ul><li>🎯 https://github.com/user-attachments/files/18760505/Semaforo_Con_Ultrasonido.txt </li></ul></p>
+<small><p> 2 - Script_Semaforo_Arduino_2 <br><ul><li>🎯 https://github.com/user-attachments/files/18760585/SemaForo_21_08_23_V2_Final.txt </li></ul></p>
 
 <div align="left">
-<img height="50" width="50" alt="xls" src="https://github.com/user-attachments/assets/ba5dfdac-529e-4e55-b7ff-06de7759e667"><br/></p>
+<img height="50" width="50" alt="xls" src="https://github.com/user-attachments/assets/ba5dfdac-529e-4e55-b7ff-06de7759e667"><br/>
 <div align="left">
-<img height="50" width="50" alt="Pj"  src="https://github.com/user-attachments/assets/7ef1ca23-5026-46b7-aed8-4be9588a4a6c"><br/></p>
+<img height="50" width="50" alt="Pj"  src="https://github.com/user-attachments/assets/7ef1ca23-5026-46b7-aed8-4be9588a4a6c"><br/>
 <h1>
 </h1>
 <br/>
