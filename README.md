@@ -1,4 +1,4 @@
-# Archivos y repositorio de practicas laborales, proyectos y colaboracion.
+# Archivos repositorios de practicas laborales y proyectos
 <p>
   <h1 align="left">
   <br>
