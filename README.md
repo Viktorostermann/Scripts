@@ -5,14 +5,16 @@
 <div></div>
 
 <div align="left">
-<img height="25" width="90" alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"><br>
-<br><small><p> 1 - Registro en Bucle While de dato o nombre: <br><ul><li>🎯 https://github.com/user-attachments/files/18756473/Funcion_registro_Nombre.txt </li></ul></p>
-<small><p> 2 - Mensaje de Bienvenida a usuario: <br><ul><li>🎯 https://github.com/user-attachments/files/18757492/Mensaje_bienvenida.txt </li></ul></p>
-<small><p> 3 - Comportamiento Neurona: <br><ul><li>🎯 https://github.com/user-attachments/files/18757514/Neurona.-.IA.txt </li></ul></p>
+<img height="35" width="90" alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"><br><br>
+<p> 1 - Registro en Bucle While de dato o nombre: <br><ul><li>🎯 https://github.com/user-attachments/files/18756473/Funcion_registro_Nombre.txt </li></ul></p>
+<p> 2 - Mensaje de Bienvenida a usuario: <br><ul><li>🎯 https://github.com/user-attachments/files/18757492/Mensaje_bienvenida.txt </li></ul></p>
+<p> 3 - Comportamiento Neurona: <br><ul><li>🎯 https://github.com/user-attachments/files/18757514/Neurona.-.IA.txt </li></ul></p>
+
 <div align="left">
-<img height="45" width="58" alt="arduino logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"><br>
-<br><small><p> 1 - Script_Semaforo_Arduino <br><li>🎯 https://github.com/user-attachments/files/18760505/Semaforo_Con_Ultrasonido.txt </li></ul></p>
+<img height="45" width="58" alt="arduino logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"><br><br>
+<small><p> 1 - Script_Semaforo_Arduino <br><li>🎯 https://github.com/user-attachments/files/18760505/Semaforo_Con_Ultrasonido.txt </li></ul></p>
 <small><p> 2 - Script_Semaforo_Arduino_2 <br><li>🎯 https://github.com/user-attachments/files/18760585/SemaForo_21_08_23_V2_Final.txt </li></ul></p>
+
 <div align="left">
 <img height="50" width="50" alt="xls" src="https://github.com/user-attachments/assets/ba5dfdac-529e-4e55-b7ff-06de7759e667"><br/></p>
 <div align="left">
