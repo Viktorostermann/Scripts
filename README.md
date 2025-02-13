@@ -32,7 +32,7 @@
 <br/>
  
 <div style="text-align: left;"> 
-<h1 style="font-size:4em; "> ### 📝Lenguaje de Marcado y Diseño<br><br> </h1> <! --Con este style cambias el tamaño de cualquier elemento dentro -->
+<h1 style="font-size:4em; "> ### 📝Lenguaje de Marcado y Diseño<br><br> </h1> <!Con este style cambias el tamaño de cualquier elemento dentro>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css"><br/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"><br/>
 </div>
@@ -42,8 +42,8 @@
 
  
  
-<div style="text-align: left;"> <! --Con este style cambias el tamaño de cualquier elemento dentro -->
-<h1 style="font-size:4em; "> ###☕️Sistemas Operativos<br><br> </h1> <! --Con este style cambias el tamaño de cualquier elemento dentro -->
+<div style="text-align: left;"> <!Con este style cambias el tamaño de cualquier elemento dentro>
+<h1 style="font-size:4em; "> ###☕️Sistemas Operativos<br><br> </h1> <!Con este style cambias el tamaño de cualquier elemento dentro>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"><br/>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="OS-Windown"><br/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="OS-Linux"><br/>
@@ -52,8 +52,8 @@
 </h1>
 <br/>
 
-<div style="text-align: left;"> <! --Con este style cambias el tamaño de cualquier elemento dentro -->
-<h1 style="font-size:4em; "> ###☕️Languages<br><br> </h1> <! --Con este style cambias el tamaño de cualquier elemento dentro -->
+<div style="text-align: left;"> <!Con este style cambias el tamaño de cualquier elemento dentro>
+<h1 style="font-size:4em; "> ###☕️Languages<br><br> </h1> <!Con este style cambias el tamaño de cualquier elemento dentro>
 <img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"><br/>
 <img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"><br/>
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python"><br/>
@@ -65,7 +65,7 @@
 <br/>
 
 <div style="text-align: left;">
-<h1 style="font-size:4em; "> ### ⚛️Frameworks<br><br> </h1> <! --Con este style cambias el tamaño de cualquier elemento dentro -->
+<h1 style="font-size:4em; "> ### ⚛️Frameworks<br><br> </h1> <!Con este style cambias el tamaño de cualquier elemento dentro>
 <img src="https://img.shields.io/badge/Angular-DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"><br/>
 <img src="https://img.shields.io/badge/react.js-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"><br/>
 <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"><br/>
@@ -76,7 +76,7 @@
 <br/>
 
 <div style="text-align: left;">
-<h1 style="font-size:4em; "> ### 📝Software<br><br> </h1> <! --Con este style cambias el tamaño de cualquier elemento dentro -->
+<h1 style="font-size:4em; "> ### 📝Software<br><br> </h1> <!Con este style cambias el tamaño de cualquier elemento dentro>
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"><br/>
 <img src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white"><br/>
 <img src="https://img.shields.io/badge/Arduino-00979D.svg?style=for-the-badge&logo=arduino&logoColor=white"><br/>
@@ -88,7 +88,7 @@
 <br/>
  
 <div style="text-align: left;">
-<h1 style="font-size:4em; "> ### 🐬Database<br><br> </h1> <! --Con este style cambias el tamaño de cualquier elemento dentro -->
+<h1 style="font-size:4em; "> ### 🐬Database<br><br> </h1> <!Con este style cambias el tamaño de cualquier elemento dentro>
 <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell script"><br/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"><br/>
 <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"><br/>
@@ -101,7 +101,7 @@
 <br/>
 
 <div style="text-align: left;">
-<h1 style="font-size:4em; "> ### 🐙Others<br><br> </h1> <! --Con este style cambias el tamaño de cualquier elemento dentro -->
+<h1 style="font-size:4em; "> ### 🐙Others<br><br> </h1> <!Con este style cambias el tamaño de cualquier elemento dentro>
 <img src="https://img.shields.io/badge/open_ai_api-412991.svg?style=for-the-badge&logo=openai&logoColor=white"><br/>
 <img src="https://img.shields.io/badge/Android-44A833.svg?style=for-the-badge&logo=android&logoColor=white"><br/>
 <img src="https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown"><br/>
