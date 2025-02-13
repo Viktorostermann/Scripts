@@ -4,7 +4,6 @@
 <h1 align="left"><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 65px></picture>Habilidades<h6><br>
 <div></div>
 
-
 <div style="text-align: left;">
 <img height="30" width="90" alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"><br><br>
 <p style="font-size:11px; "> 1 - Registro en Bucle While de dato o nombre: <br><ul><li>🎯 https://github.com/user-attachments/files/18756473/Funcion_registro_Nombre.txt ></li></ul></p>
@@ -22,24 +21,6 @@
 </h1>
 <br/>
 
-<div style="text-align: left;">
-<img height="50" width="50" alt="xls" src="https://github.com/user-attachments/assets/ba5dfdac-529e-4e55-b7ff-06de7759e667"><br><br>
-<p style="font-size:11px; "> 1 - Matriz de Riesgo Carga y Descarga.xlsx <br><ul><li>🎯 https://github.com/user-attachments/files/18776047/Matriz.de.Riesgo.Carga.y.Descarga.xlsx </li></ul></p>
-<p style="font-size:11px; "> 2 - KPI Logistica & Almacén 2018.xlsx <br><ul><li>🎯 https://github.com/user-attachments/files/18776051/KPI.Logistica.Almacen.2018.xlsx </li></ul></p>
-</div>
-<h1>
-</h1>
-<br/>
-
-<div style="text-align: left;">
-<img height="50" width="50" alt="Pj"  src="https://github.com/user-attachments/assets/7ef1ca23-5026-46b7-aed8-4be9588a4a6c"><br><br>
-<p style="font-size:11px; "> 1 - Plan a 6 semanas Logística y Almacén.xlsx <br><ul><li>🎯 https://github.com/user-attachments/files/18776192/Plan.a.6.semanas.Logistica.y.Almacen.xlsx </li></ul></p>
-<p style="font-size:11px; "> 2 - Curva_Avance_Planta 09-07-07.xls <br><ul><li>🎯 https://github.com/user-attachments/files/18776199/Curva_Avance_Planta.09-07-07.xls </li></ul></p>
-</div>
-<h1>
-</h1>
-<br/>
- 
 <div style="text-align: left;"> 
 <h1 style="font-size:1em; "> ### 📝Lenguaje de Marcado y Diseño<br><br> </h1>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css"><br/>
@@ -48,8 +29,6 @@
 <h1>
 </h1>
 <br/>
-
- 
  
 <div style="text-align: left;">
 <h1 style="font-size:1em; "> ###☕️Sistemas Operativos<br><br> </h1>
@@ -62,7 +41,7 @@
 <br/>
 
 <div style="text-align: left;">
-<h1 style="font-size:1em; "> ###☕️Languages<br><br> </h1>
+<h1 style="font-size:1em; "> ###☕️Lenguajes<br><br> </h1>
 <img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"><br/>
 <img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"><br/>
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python"><br/>
@@ -110,7 +89,7 @@
 <br/>
 
 <div style="text-align: left;">
-<h1 style="font-size:1em; "> ### 🐙Others<br><br> </h1>
+<h1 style="font-size:1em; "> ### 🐙Others Experiences<br><br> </h1>
 <img src="https://img.shields.io/badge/open_ai_api-412991.svg?style=for-the-badge&logo=openai&logoColor=white"><br/>
 <img src="https://img.shields.io/badge/Android-44A833.svg?style=for-the-badge&logo=android&logoColor=white"><br/>
 <img src="https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown"><br/>
@@ -118,9 +97,24 @@
 <img src="https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy"><br/>
 <img src="https://img.shields.io/twitter/url?color=333333&label=MS%20Excel&logo=Microsoft%20Excel&url=https%3A%2F%2Fimg.shields.io%2Fbadge%2F-Windows-333333%3Fstyle%3Dflat%26logo%3DWindows"><br/>
 <img src="https://img.shields.io/badge/-VScode-333333?style=flat&logo=visual-studio-code&logoColor=007ACC"><br/>
+</div>
+<h1>
+</h1>
+<br/>
 
+<div style="text-align: left;">
+<img height="50" width="50" alt="xls" src="https://github.com/user-attachments/assets/ba5dfdac-529e-4e55-b7ff-06de7759e667"><br><br>
+<p style="font-size:11px; "> 1 - Matriz de Riesgo Carga y Descarga.xlsx <br><ul><li>🎯 https://github.com/user-attachments/files/18776047/Matriz.de.Riesgo.Carga.y.Descarga.xlsx </li></ul></p>
+<p style="font-size:11px; "> 2 - KPI Logistica & Almacén 2018.xlsx <br><ul><li>🎯 https://github.com/user-attachments/files/18776051/KPI.Logistica.Almacen.2018.xlsx </li></ul></p>
+</div>
+<h1>
+</h1>
+<br/>
 
-
+<div style="text-align: left;">
+<img height="50" width="50" alt="Pj"  src="https://github.com/user-attachments/assets/7ef1ca23-5026-46b7-aed8-4be9588a4a6c"><br><br>
+<p style="font-size:11px; "> 1 - Plan a 6 semanas Logística y Almacén.xlsx <br><ul><li>🎯 https://github.com/user-attachments/files/18776192/Plan.a.6.semanas.Logistica.y.Almacen.xlsx </li></ul></p>
+<p style="font-size:11px; "> 2 - Curva_Avance_Planta 09-07-07.xls <br><ul><li>🎯 https://github.com/user-attachments/files/18776199/Curva_Avance_Planta.09-07-07.xls </li></ul></p>
 </div>
 <h1>
 </h1>
@@ -131,5 +125,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmbechard&theme=blue-green">
 </div>
 <br>
-
-
