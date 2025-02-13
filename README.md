@@ -7,17 +7,17 @@
 
 <div style="text-align: left;">
 <img height="30" width="90" alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"><br><br>
-<FONT SIZE=3><p> 1 - Registro en Bucle While de dato o nombre: <br><ul><li>🎯 https://github.com/user-attachments/files/18756473/Funcion_registro_Nombre.txt </font></li></ul></p>
-<FONT SIZE=3><p> 2 - Mensaje de Bienvenida a usuario: <br><ul><li>🎯 https://github.com/user-attachments/files/18757492/Mensaje_bienvenida.txt </font></li></ul></p>
-<FONT SIZE=3><p> 3 - Comportamiento Neurona: <br><ul><li>🎯 https://github.com/user-attachments/files/18757514/Neurona.-.IA.txt </font></li></ul></p>
+<FONT SIZE=3><p> 1 - Registro en Bucle While de dato o nombre: <br><ul><li>🎯 https://github.com/user-attachments/files/18756473/Funcion_registro_Nombre.txt ></li></ul></p></font>
+<FONT SIZE=3><p> 2 - Mensaje de Bienvenida a usuario: <br><ul><li>🎯 https://github.com/user-attachments/files/18757492/Mensaje_bienvenida.txt </li></ul></p></font>
+<FONT SIZE=3><p> 3 - Comportamiento Neurona: <br><ul><li>🎯 https://github.com/user-attachments/files/18757514/Neurona.-.IA.txt </li></ul></p></font>
 <h1>
 </h1>
 <br/>
  
 <div style="text-align: left;">
 <img height="45" width="58" alt="arduino logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"><br><br>
-<FONT SIZE=3><p> 1 - Script_Semaforo_Arduino <br><ul><li>🎯 https://github.com/user-attachments/files/18760505/Semaforo_Con_Ultrasonido.txt </font></li></ul></p>
-<FONT SIZE=3><p> 2 - Script_Semaforo_Arduino_2 <br><ul><li>🎯 https://github.com/user-attachments/files/18760585/SemaForo_21_08_23_V2_Final.txt </font></li></ul></p>
+<FONT SIZE=3><p> 1 - Script_Semaforo_Arduino <br><ul><li>🎯 https://github.com/user-attachments/files/18760505/Semaforo_Con_Ultrasonido.txt </li></ul></p></font>
+<FONT SIZE=3><p> 2 - Script_Semaforo_Arduino_2 <br><ul><li>🎯 https://github.com/user-attachments/files/18760585/SemaForo_21_08_23_V2_Final.txt </li></ul></p></font>
 <h1>
 </h1>
 <br/>
@@ -129,4 +129,6 @@
 <FONT SIZE=3>A </font>
 <FONT SIZE=4>A </font>
 <FONT SIZE=5>A </font>
+
+<font size="5"> Hola Mundo </font>
 
