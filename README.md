@@ -6,7 +6,7 @@
 
 <div style="text-align: left;">
 <img height="30" width="90" alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"><br><br>
-<p style="font-size:11px; "> 1 - Registro en Bucle While de dato o nombre: <br><ul><li>🎯 https://github.com/user-attachments/files/18756473/Funcion_registro_Nombre.txt ></li></ul></p>
+<p style="font-size:11px; "> 1 - Registro en Bucle While de dato o nombre: <br><ul><li>🎯 https://github.com/user-attachments/files/18756473/Funcion_registro_Nombre.txt </li></ul></p>
 <p style="font-size:11px "> 2 - Mensaje de Bienvenida a usuario: <br><ul><li>🎯 https://github.com/user-attachments/files/18757492/Mensaje_bienvenida.txt </li></ul></p>
 <p style="font-size:11px; "> 3 - Comportamiento Neurona: <br><ul><li>🎯 https://github.com/user-attachments/files/18757514/Neurona.-.IA.txt </li></ul></p>
 <h1>
