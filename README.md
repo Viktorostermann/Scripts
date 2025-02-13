@@ -1,7 +1,7 @@
 # Archivos repositorios de practicas laborales y proyectos <br>
 
 
-<h1 align="left"><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 65px></picture>Habilidades en Desarrollo<h6><br>
+<h1 align="left"><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 65px></picture>Habilidades<h6><br>
 <div></div>
 
 
@@ -23,9 +23,18 @@
 <br/>
 
 <div style="text-align: left;">
-<img height="50" width="50" alt="xls" src="https://github.com/user-attachments/assets/ba5dfdac-529e-4e55-b7ff-06de7759e667"><br/>
+<img height="50" width="50" alt="xls" src="https://github.com/user-attachments/assets/ba5dfdac-529e-4e55-b7ff-06de7759e667"><br><br>
+<p style="font-size:11px; "> 1 - Matriz de Riesgo Carga y Descarga.xlsx <br><ul><li>🎯 https://github.com/user-attachments/files/18776047/Matriz.de.Riesgo.Carga.y.Descarga.xlsx </li></ul></p>
+<p style="font-size:11px; "> 2 - KPI Logistica & Almacén 2018.xlsx <br><ul><li>🎯 https://github.com/user-attachments/files/18776051/KPI.Logistica.Almacen.2018.xlsx </li></ul></p>
+</div>
+<h1>
+</h1>
+<br/>
+
 <div style="text-align: left;">
-<img height="50" width="50" alt="Pj"  src="https://github.com/user-attachments/assets/7ef1ca23-5026-46b7-aed8-4be9588a4a6c"><br/>
+<img height="50" width="50" alt="Pj"  src="https://github.com/user-attachments/assets/7ef1ca23-5026-46b7-aed8-4be9588a4a6c"><br><br>
+<p style="font-size:11px; "> 1 - Plan a 6 semanas Logística y Almacén.xlsx <br><ul><li>🎯 https://github.com/user-attachments/files/18776192/Plan.a.6.semanas.Logistica.y.Almacen.xlsx </li></ul></p>
+<p style="font-size:11px; "> 2 - Curva_Avance_Planta 09-07-07.xls <br><ul><li>🎯 https://github.com/user-attachments/files/18776199/Curva_Avance_Planta.09-07-07.xls </li></ul></p>
 </div>
 <h1>
 </h1>
