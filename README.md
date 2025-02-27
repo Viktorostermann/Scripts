@@ -72,7 +72,9 @@
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git"><br/>
 <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="60" height="60"><br/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60"><br/>
- 
+<p style="font-size:11px; "> 1 - Practica aplicacion de SSH conexion Terminales locales y Remotos  <br><ul><li>🎯https://drive.google.com/file/d/15LogGquDESflNQ6WD7p_x_vnrN3fRtTH/view?usp=sharing</li></ul>
+
+</p>  
 </div>
 <h1>
 </h1>
