@@ -1,4 +1,4 @@
-# Estimado/a [Nombre del Reclutador o Empresa]:
+# Estimado/a:
 
 Me presento con entusiasmo como un profesional apasionado por la Ciberseguridad, actualmente en proceso de formación como Desarrollador Full Stack. Me encuentro en nivel Junior en ambas áreas, pero con un firme compromiso de aprendizaje continuo y la motivación de crecer aportando soluciones seguras, innovadoras y eficientes.
 
@@ -7,6 +7,7 @@ Estoy convencido de que mi disciplina, curiosidad tecnológica y capacidad de ad
 Quedo a su disposición para conversar sobre cómo puedo aportar a su organización.
 
 Atentamente,
+
 [Victor Miletic]
 
 # Archivos repositorios de practicas laborales y proyectos <br>
