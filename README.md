@@ -24,7 +24,7 @@ Atentamente,
 <p style="font-size:11px; "> 3 - Comportamiento Neurona: <br><ul><li>🎯 https://github.com/user-attachments/files/18757514/Neurona.-.IA.txt </li></ul></p>
 
 <p style="font-size:11px; "> 4 - Aplicación extrae Texto y convierte a Voz TkInter_v1: <br><ul><li>🎯 https://github.com/Viktorostermann/Texto_a_Voz_TkInter_v1.git </li></ul>
-<p style="font-size:11px; "> 5 - Portafolio de Proyectos Terminados Victor Miletic: <br><ul><li>🎯 https://drive.google.com/drive/folders/1R_i3vWaS3DO4sd1KCSa2vhuCGyjQX2K7?usp=sharing </li></ul>
+<p style="font-size:11px; "> 5 - Portafolio Victor Miletic: Proyecto: Texto_a_Voz: <br><ul><li>🎯 https://drive.google.com/drive/folders/1R_i3vWaS3DO4sd1KCSa2vhuCGyjQX2K7?usp=sharing </li></ul>
 </p>
 <h1>
 </h1>
