@@ -1,0 +1,21 @@
+# 🔹 Forzar lenguajes por carpeta
+frontend/** linguist-language=HTML
+backend/** linguist-language=Python
+java_modules/** linguist-language=Java
+cpp_engine/** linguist-language=C++
+csharp_tools/** linguist-language=C#
+c_base/** linguist-language=C
+templates/** linguist-language=HTML
+
+# 🔹 Forzar lenguajes por archivo
+setup_flask.txt linguist-language=Python
+main.cs linguist-language=C#
+engine.cpp linguist-language=C++
+index.html linguist-language=HTML
+
+# 🔹 Excluir recursos no relevantes
+docs/** linguist-documentation
+assets/** linguist-generated
+*.png linguist-generated
+*.mp3 linguist-generated
+*.json linguist-generated
