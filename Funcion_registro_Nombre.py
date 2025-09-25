@@ -4,8 +4,8 @@ def Dato(nombre): #--- Función
     print("\n")
     nombre = input("Ingrese un nombre para el registro: ")
     print("\n")
-   
- # --- Con .strip() y lstrip(). Eliminamos o limpiamos los espacios en blanco o saltos de linea, antes o después de la cadena de caracteres.
+
+# --- Con .strip() y lstrip(). Eliminamos o limpiamos los espacios en blanco o saltos de linea, antes o después de la cadena de caracteres.
     if nombre.lstrip() == "" and nombre.strip() == "" : 
         
 # --- También se puede usar la variable creada 'nombre' con la siguiente sintaxis: while nombre == "":
@@ -32,5 +32,3 @@ def Dato(nombre): #--- Función
 Dato(" ") # ---> Regresamos el estado de la función en blanco al final del script aquí podemos llamarla directamente 
 
 # --- También podemos hacer uso de Return.
- 
-           
