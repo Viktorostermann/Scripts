@@ -1,0 +1,13 @@
+# Definimos el acertijo y la respuesta correcta
+acertijo = "¿Qué tiene raíces que no son plantas?"
+respuesta_correcta = "un río"
+
+# Preguntamos al usuario el acertijo
+print(acertijo)
+respuesta_usuario = input("Tu respuesta: ").strip().lower()  # Normalizamos la respuesta
+
+# Comparamos la respuesta del usuario con la respuesta correcta
+if respuesta_usuario == respuesta_correcta:
+    print("¡La respuesta es correcta!")
+else:
+    print("La respuesta correcta es:", respuesta_correcta)

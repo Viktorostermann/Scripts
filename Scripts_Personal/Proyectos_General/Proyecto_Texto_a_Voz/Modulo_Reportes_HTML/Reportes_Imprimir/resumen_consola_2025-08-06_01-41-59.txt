@@ -1,0 +1,23 @@
+📋 Resumen:
+────────────────────────────────────────────
+🔹 Total fuentes procesadas: 8
+✅ Procesadas con éxito:     0
+❌ Con errores:              8
+🔊 Audios generados:         0
+────────────────────────────────────────────
+
+🔊 Archivos MP3 generados:
+
+📝 Artículos con texto extraído:
+  - NationalGeographic → "National Geographic Society funds the best and brightest individuals dedicated t..."
+  - ScientificAmerican → "The Krasheninnikov volcano, located less than 150 miles away from the epicenter..."
+
+⚠️ URLs con error:
+  - Nasa → URL inválida o inaccesible
+  - BBC → URL inválida o inaccesible
+  - CNN → URL inválida o inaccesible
+  - Nature → URL inválida o inaccesible
+  - Reuters → URL inválida o inaccesible
+  - TechCrunch → URL inválida o inaccesible
+  - NationalGeographic → [NationalGeographic] Error: write() argument must be str, not bytes
+  - ScientificAmerican → [ScientificAmerican] Error: write() argument must be str, not bytes

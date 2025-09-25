@@ -1,0 +1,5 @@
+[LANGUAGE-FORCE] .gitattributes actualizado para detección de lenguajes y frameworks
+[LANGUAGE-FORCE] frontend/ → HTML, backend/ → Python, java_modules/ → Java
+[LANGUAGE-FORCE] cpp_engine/ → C++, csharp_tools/ → C#, c_base/ → C
+[LANGUAGE-FORCE] Archivos individuales forzados: setup_flask.txt → Python, main.cs → C#
+[LANGUAGE-FORCE] Recursos gráficos y sonoros excluidos de estadísticas
