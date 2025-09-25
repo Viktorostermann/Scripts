@@ -1,0 +1,36 @@
+# --- Nota: Para poder ejecutar el script, debes cambiar la extensión del archivo (.txt) a (.py), Para poder verlo desde VsCode, Linux o WSL
+
+def Dato(nombre): #--- Función
+    print("\n")
+    nombre = input("Ingrese un nombre para el registro: ")
+    print("\n")
+   
+ # --- Con .strip() y lstrip(). Eliminamos o limpiamos los espacios en blanco o saltos de linea, antes o después de la cadena de caracteres.
+    if nombre.lstrip() == "" and nombre.strip() == "" : 
+        
+# --- También se puede usar la variable creada 'nombre' con la siguiente sintaxis: while nombre == "":
+        while True: 
+            print("Registro en blanco. Su registro no puede ser procesado en blanco. ")
+            print("\n")
+            
+# --- Evalúo si quiere permanecer en el input o salir del script.
+            salir = input("Desea Salir del Script?: Si = (Y) No = (N): ")
+            print("\n")
+            if salir == "Y" or salir == "y":
+                print("Saliendo del programa, Hasta la próxima!")
+                print("\n")
+            break
+        if salir == "N" or salir == "n":
+            Dato(" ") # --- Si deseo forzar un imput. Aquí llamo la función nuevamente o puedo utilizar (return). Para que regrese al ciclo While, forzando al usuario incluir el registro.
+    else:
+        
+# --- acá compruebo si la variable nombre no esta vacía nuevamente para evitar espacio blanco o vacio.
+        if nombre != " ": 
+            print(f'Hola, {nombre}, ¡Tu registro se ha completado! A dios.!')
+            print("\n")
+
+Dato(" ") # ---> Regresamos el estado de la función en blanco al final del script aquí podemos llamarla directamente 
+
+# --- También podemos hacer uso de Return.
+ 
+           
