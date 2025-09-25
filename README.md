@@ -23,7 +23,7 @@ Atentamente,
 <p style="font-size:11px "> 2 - Mensaje de Bienvenida a usuario: <br><ul><li>🎯 https://github.com/user-attachments/files/18757492/Mensaje_bienvenida.txt </li></ul></p>
 <p style="font-size:11px; "> 3 - Comportamiento Neurona: <br><ul><li>🎯 https://github.com/user-attachments/files/18757514/Neurona.-.IA.txt </li></ul></p>
 
-<p style="font-size:11px; "> 4 - Aplicación extrae Texto y convierte a Voz TkInter_v1: <br><ul><li>🎯 https://github.com/Viktorostermann/Texto_a_Voz_TkInter_v1.git </li></ul>
+<p style="font-size:11px; "> 4 - Aplicación extrae Texto y convierte a Voz TkInter_v1 (Windows): <br><ul><li>🎯 https://github.com/Viktorostermann/Texto_a_Voz_TkInter_v1.git </li></ul>
 <p style="font-size:11px; "> 5 - Portafolio Victor Miletic: 
  <br><ul><li> 🎯 Proyecto: Texto_a_Voz: https://drive.google.com/drive/folders/1R_i3vWaS3DO4sd1KCSa2vhuCGyjQX2K7?usp=sharing </li></ul>
  <br><ul><li> 🎯 Proyecto: Arcade_Pong: https://drive.google.com/drive/folders/1snTYDWKBnK-l9JedQ-rWyEm3bcy_faoS?usp=sharing </li></ul>
