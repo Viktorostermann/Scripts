@@ -1,5 +1,5 @@
-'''Crea una función llamada "suma" que tome dos parámetros "a" y "b" e
-imprima la suma de ambos.'''
+'''2. De ne una función llamada "saludar" que tome un parámetro "nombre"
+y muestre un saludo personalizado.'''
 
 
 def suma(a, b):

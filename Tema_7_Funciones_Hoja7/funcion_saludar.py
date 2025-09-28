@@ -1,4 +1,4 @@
-'''Crea una función llamada "saludar" que tome un parámetro "nombre"
+'''1. Crea una función llamada "saludar" que tome un parámetro "nombre"
 y muestre un saludo personalizado.'''
 
 def saludar(nombre):
