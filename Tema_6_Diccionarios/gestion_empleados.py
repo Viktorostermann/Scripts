@@ -78,7 +78,7 @@ while  continuar:
         else:
             print(f"No hay empleados en el departamento {departamento}")
             print("\n")
-               
+
     # Salir
     elif opcion == "5":
         print("Salir")
