@@ -17,7 +17,7 @@ def llamar_captura():
     print("🚀 Ejecutando captura con Python Windows...")
     resultado = subprocess.run(
         ["/mnt/c/Users/vikto/AppData/Local/Programs/Python/Python310/python.exe", 
-         "/mnt/c/Users/vikto/Documents/wsl_scripts/capturar_windows.py"],
+        "/mnt/c/Users/vikto/Documents/wsl_scripts/capturar_windows.py"],
         capture_output=True,
         text=True
     )
