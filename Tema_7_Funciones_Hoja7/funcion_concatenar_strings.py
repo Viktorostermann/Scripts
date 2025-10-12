@@ -7,10 +7,10 @@ cadena2 = "Mundo"
 
 print("")
 # Ejemplo_1 Forma básica de hacerlo:
-def concatenar_strings(cadena1, cadena2):
-    '''Concatena dos cadenas y las imprime.'''
+def concatenar_strings(cadena1, cadena2): # Concatenar dos cadenas 
+    '''Concatena dos cadenas y las imprime.''' 
 
-    resultado = cadena1 + cadena2
+    resultado = cadena1 + cadena2 # Se crea la variable resultado y se le asigna la Concatenacion de dos cadenas y asignarla a una variable
     print(resultado)
 concatenar_strings("Hola", " " + "Mundo")
 print("")
