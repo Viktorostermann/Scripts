@@ -6,6 +6,8 @@ cpp_engine/** linguist-language=C++
 csharp_tools/** linguist-language=C#
 c_base/** linguist-language=C
 templates/** linguist-language=HTML
+excel_data/** linguist-language=CSV
+project_files/** linguist-language=Text
 
 # 🔹 Forzar lenguajes por archivo
 setup_flask.txt linguist-language=Python
@@ -13,6 +15,8 @@ main.cs linguist-language=C#
 engine.cpp linguist-language=C++
 index.html linguist-language=HTML
 main.java linguist-language=Java
+report.xlsx linguist-language=CSV
+timeline.mpp linguist-language=Text
 
 # 🔹 Excluir recursos no relevantes
 docs/** linguist-documentation
