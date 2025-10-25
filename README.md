@@ -10,7 +10,7 @@ Atentamente,
 
 [Victor Miletic]
 
-## Archivos repositorios de prácticas laborales y proyectos
+## Archivos repositorios de: Formación, prácticas laborales y proyectos
 
 
 <h1 align="left"><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 65px></picture>Habilidades<h6><br>
