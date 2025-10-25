@@ -13,7 +13,7 @@
 
 # El metodo __init__ inicializa los atributos de una Clase o Funcion para poder utilizarlos
 
-# Desarrollar un programa que haga una suma simple. 
-
-
+# Desarrollar un programa que haga una suma simple
+ 
+ 
 
