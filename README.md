@@ -123,17 +123,21 @@ Atentamente,
 <img src="https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown"><br><br/>
 <img src="https://img.shields.io/badge/-Anaconda-333333?style=flat&logo=Anaconda"><br><br/>
 <img src="https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy"><br><br/>
-<img src="https://img.shields.io/twitter/url?color=333333&label=MS%20Excel&logo=Microsoft%20Excel&url=https%3A%2F%2Fimg.shields.io%2Fbadge%2F-Windows-333333%3Fstyle%3Dflat%26logo%3DWindows"><br><br/>
 <img src="https://img.shields.io/badge/-VScode-333333?style=flat&logo=visual-studio-code&logoColor=007ACC"><br><br/>
 </div>
 <h1>
 </h1>
 <br/>
 
+
 <p style="font-size:11px; ">
-<img height="50" width="50" alt="xls" src="https://github.com/user-attachments/assets/ba5dfdac-529e-4e55-b7ff-06de7759e667"><br><br></picture>Misceláneos Logísticos (Ms Excel)::<h6><br>
+<img height="50" width="50" alt="xls" src="https://github.com/user-attachments/assets/ba5dfdac-529e-4e55-b7ff-06de7759e667">
+<img src="https://img.shields.io/twitter/url?color=333333&label=MS%20Excel&logo=Microsoft%20Excel&url=https%3A%2F%2Fimg.shields.io%2Fbadge%2F-Windows-333333%3Fstyle%3Dflat%26logo%3DWindows">
+<br><br></picture>Misceláneos Logísticos (Ms Excel) <h6><br>
 <p style="font-size:11px; "> 1 - Matriz de Riesgo Carga y Descarga.xlsx <br><ul><li>🎯 https://github.com/user-attachments/files/18776047/Matriz.de.Riesgo.Carga.y.Descarga.xlsx </li></ul></p>
 <p style="font-size:11px; "> 2 - KPI Logistica & Almacén 2018.xlsx <br><ul><li>🎯 https://github.com/user-attachments/files/18776051/KPI.Logistica.Almacen.2018.xlsx </li></ul></p>
+<p style="font-size:11px; "> 3 - Plan a 6 semanas Logística y Almacén.xlsx <br><ul><li>🎯 https://github.com/user-attachments/files/18776192/Plan.a.6.semanas.Logistica.y.Almacen.xlsx </li></ul></p>
+<p style="font-size:11px; "> 4 - Curva_Avance_Planta 09-07-07.xls <br><ul><li>🎯 https://github.com/user-attachments/files/18776199/Curva_Avance_Planta.09-07-07.xls </li></ul></p>
 </div>
 <h1>
 </h1>
@@ -142,8 +146,7 @@ Atentamente,
 <p style="font-size:11px; ">
 <img height="50" width="50" alt="Pj"  src="https://github.com/user-attachments/assets/7ef1ca23-5026-46b7-aed8-4be9588a4a6c"><br><br></picture> Misceláneos Planificación(Ms Project):<h6><br>
 <div></div>
-<p style="font-size:11px; "> 1 - Plan a 6 semanas Logística y Almacén.xlsx <br><ul><li>🎯 https://github.com/user-attachments/files/18776192/Plan.a.6.semanas.Logistica.y.Almacen.xlsx </li></ul></p>
-<p style="font-size:11px; "> 2 - Curva_Avance_Planta 09-07-07.xls <br><ul><li>🎯 https://github.com/user-attachments/files/18776199/Curva_Avance_Planta.09-07-07.xls </li></ul></p>
+
 </div>
 <h1>
 </h1>
