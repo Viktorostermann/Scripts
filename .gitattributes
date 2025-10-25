@@ -37,3 +37,5 @@ assets/**               linguist-generated
 *.png                   linguist-generated
 *.mp3                   linguist-generated
 *.json                  linguist-generated
+*.mp4                   linguist-generated
+
