@@ -12,6 +12,7 @@ setup_flask.txt linguist-language=Python
 main.cs linguist-language=C#
 engine.cpp linguist-language=C++
 index.html linguist-language=HTML
+main.java linguist-language=Java
 
 # 🔹 Excluir recursos no relevantes
 docs/** linguist-documentation
