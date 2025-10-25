@@ -19,10 +19,10 @@ print(nombres_comunes) # Imprimir los nombres comunes en ambas bases de datos
 # Crea una lista de Tuplas con los clientes comunes
 Clientes_Comunes = []
 
-for cliente_1 in Base_Datos1:
+for cliente_1 in Base_Datos1: # Iterar sobre la primera base de datos
     if cliente_1[0] in nombres_comunes: # Verificar si el cliente de la primera base de datos está en los nombres comunes
         for cliente_2 in Base_Datos2: # Iterar sobre la segunda base de datos para encontrar el cliente comun
             if cliente_2[0] == cliente_1[0]: # Verificar si el nombre del cliente es el mismo en ambas bases de datos
                 Clientes_Comunes.append((cliente_1[0], cliente_1[1], cliente_1[2], cliente_2[1], cliente_2[2])) # Agregar el cliente común a la lista de clientes comunes
                 break
-print(Clientes_Comunes)  # Imprimir la lista de clientes comunes
+print(Clientes_Comunes)  # Imprimir la lista de clientes comunes as np Tuplas
