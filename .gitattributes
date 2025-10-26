@@ -11,9 +11,9 @@ cpp_engine/**           linguist-language=C++
 csharp_tools/**         linguist-language=C#
 c_base/**               linguist-language=C
 templates/**            linguist-language=HTML
-excel_data/**           linguist-language=CSV
+home/viktore/Documentos/2-Python/Office**  linguist-language=CSV
 project_files/**        linguist-language=Text
-xml_configs/**          linguist-language=XML
+home/viktore/Documentos/2-Python/Office/** linguist-language=XML
 
 # 🔹 Forzar lenguajes por archivo
 setup_flask.txt         linguist-language=Python
