@@ -44,8 +44,8 @@ Atentamente,
 
 <div style="text-align: left;"> 
 <h1 style="font-size:1em; "> ### 📝Lenguaje de Marcado y Diseño </h1>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25" width="75" alt="css"><br><br/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="40" width="75" alt="html5"></li></ul></p>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="40" width="75" alt="css"><br><br/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="40" width="75" alt="html5"><br><br/>
 </div>
 <h1>
 </h1>
