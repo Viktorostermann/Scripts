@@ -57,7 +57,7 @@ Atentamente,
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" height="30" width="100" alt="OS-Windown"> <br><br/>
 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="30" width="100" alt="OS-Linux"><br>
-<p style="font-size:11px; "> 1 - Demostración de conexion con SSH Terminales locales, Remotos con Virtual Machine: 
+<p style="font-size:11px; "> 1 - Demostración de conexion con SSH Terminales locales, Remotos con Virtual Machine:<br>
 <br><ul><li>🎯https://drive.google.com/file/d/1x2JmXHW9l95NQ1R27HbZ7L3C4_yHcd20/view?usp=sharing </li> </ul> <div> </div>
 </div>
 <h1>
