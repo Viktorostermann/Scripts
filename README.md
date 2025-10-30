@@ -31,9 +31,10 @@ Atentamente,
 <div></div>
 </br>
 
-<div style="text-align: left;"> 
-<img height="30" width="90"  alt="arduino logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
-<img src="https://img.shields.io/badge/Arduino-00979D.svg?style=for-the-badge&logo=arduino&logoColor=white" height="30" width="90" ></br>
+<div style="text-align: left;">
+<img height="30" width="90"  alt="arduino logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"><br>
+<img src="https://img.shields.io/badge/Arduino-00979D.svg?style=for-the-badge&logo=arduino&logoColor=white" height="30" width="90" ><br>
+ <br>
 <p style="font-size:11px; "> 1 - Script_Semaforo_Arduino <br><ul><li>🎯 https://github.com/user-attachments/files/18760505/Semaforo_Con_Ultrasonido.txt </li></ul></p><br>
 <p style="font-size:11px; "> 2 - Script_Semaforo_Arduino_2 <br><ul><li>🎯 https://github.com/user-attachments/files/18760585/SemaForo_21_08_23_V2_Final.txt </li></ul></p>
 </div>
