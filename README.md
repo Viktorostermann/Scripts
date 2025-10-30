@@ -9,7 +9,7 @@ Quedo a su disposición para conversar sobre cómo puedo aportar a su organizaci
 Atentamente,
 
 [Victor Miletic]
-<br></br>
+<br>
 
 ## Archivos repositorios sobre Proyectos de Investigación y Desarrollos 
 
@@ -29,7 +29,7 @@ Atentamente,
 <h1>
 </h1>
 <div></div>
-</br>
+
 
 <div style="text-align: left;">
 <img height="30" width="90"  alt="arduino logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"><br>
