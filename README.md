@@ -65,9 +65,9 @@ Atentamente,
 
 <div style="text-align: left;">
 <h1 style="font-size:1em; "> ###☕️Lenguajes </h1>
-<img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" height="150" width="90"> <br><br/>
-<img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" height="150" width="90"> <br><br/>
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python" height="150" width="90"> <br><br/>
+<img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" height="150" width="150"> <br><br/>
+<img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" height="150" width="150"> <br><br/>
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python" height="150" width="150"> <br><br/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java" height="25" width="90"> <br><br/>
 <img src="https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white" height="25" width="90"><br><br/>
 </div>
@@ -98,8 +98,8 @@ Atentamente,
  
 <div style="text-align: left;">
 <h1 style="font-size:1em; "> ### 🐬Database </h1> 
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" height="120" width="100" ><br><br/>
-<img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" height="100" width="100" ><br><br/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" height="70" width="100" ><br><br/>
+<img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" height="70" width="100" ><br><br/>
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" height="50" width="100" ><br><br/>
 <img src="https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white" height="50" width="100" ><br><br/>
 <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" height="55" width="100" ><br><br/>
@@ -110,7 +110,7 @@ Atentamente,
 
 <div style="text-align: left;">
 <h1 style="font-size:1em; "> ### 🐙 IA  </h1>
-<img src="https://img.shields.io/badge/open_ai_api-412991.svg?style=for-the-badge&logo=openai&logoColor=white" height="80" width="100"> <br><br/>
+<img src="https://img.shields.io/badge/open_ai_api-412991.svg?style=for-the-badge&logo=openai&logoColor=white" height="60" width="100"> <br><br/>
 </div>
 <h1>
 </h1>
@@ -120,10 +120,10 @@ Atentamente,
 <div style="text-align: left;">
 <h1 style="font-size:1em; "> ### 📝 Entornos para el Desarrollo de Software (IDES) </h1>
 <img height="50" width="80" alt="arduino logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"><br>
-<img src="https://img.shields.io/badge/Arduino-00979D.svg?style=for-the-badge&logo=arduino&logoColor=white" height="150" width="80"><br>
+<img src="https://img.shields.io/badge/Arduino-00979D.svg?style=for-the-badge&logo=arduino&logoColor=white" height="100" width="80"><br>
 <img src="https://img.shields.io/badge/-VScode-333333?style=flat&logo=visual-studio-code&logoColor=007ACC" height="23" width="80"> <br><br/>
 <img src="https://img.shields.io/badge/Android-44A833.svg?style=for-the-badge&logo=android&logoColor=white" height="55" width="80"> <br><br/>
-<img src="https://img.shields.io/badge/-Anaconda-333333?style=flat&logo=Anaconda" height="70" width="80"><br><br/>
+<img src="https://img.shields.io/badge/-Anaconda-333333?style=flat&logo=Anaconda" height="50" width="80"><br><br/>
 </div>
 <h1>
 </h1>
