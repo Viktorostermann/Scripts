@@ -44,7 +44,7 @@ Atentamente,
 
 <div style="text-align: left;"> 
 <h1 style="font-size:1em; "> ### 📝Lenguaje de Marcado y Diseño </h1>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="40" width="75" alt="css"><br><br/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="35" width="75" alt="css"><br><br/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="40" width="75" alt="html5"><br><br/>
 </div>
 <h1>
@@ -77,8 +77,8 @@ Atentamente,
 
 <div style="text-align: left;">
 <h1 style="font-size:1em; "> ### ⚛️ Frameworks </h1> 
-<img src="https://img.shields.io/badge/Angular-DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" height="40" width="100"> <br><br/>
-<img src="https://img.shields.io/badge/react.js-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black" height="45" width="100"> <br><br/>
+<img src="https://img.shields.io/badge/Angular-DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" height="35" width="100"> <br><br/>
+<img src="https://img.shields.io/badge/react.js-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black" height="40" width="100"> <br><br/>
 <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" height="30" width="100"> <br><br/>
 <img src="https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" height="25" width="100"><br><br/>
 </div>
@@ -100,9 +100,9 @@ Atentamente,
 <h1 style="font-size:1em; "> ### 🐬Database </h1> 
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" height="40" width="100" ><br><br/>
 <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" height="40" width="100" ><br><br/>
-<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" height="50" width="100" ><br><br/>
-<img src="https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white" height="50" width="100" ><br><br/>
-<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" height="55" width="100" ><br><br/>
+<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" height="40" width="100" ><br><br/>
+<img src="https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white" height="40" width="100" ><br><br/>
+<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" height="40" width="100" ><br><br/>
 </div>
 <h1>
 </h1>
@@ -120,10 +120,10 @@ Atentamente,
 <div style="text-align: left;">
 <h1 style="font-size:1em; "> ### 📝 Entornos para el Desarrollo de Software (IDES) </h1>
 <img height="50" width="80" alt="arduino logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"> <br><br/>
-<img src="https://img.shields.io/badge/Arduino-00979D.svg?style=for-the-badge&logo=arduino&logoColor=white" height="70" width="80"> <br><br/>
-<img src="https://img.shields.io/badge/-VScode-333333?style=flat&logo=visual-studio-code&logoColor=007ACC" height="23" width="80"> <br><br/>
-<img src="https://img.shields.io/badge/Android-44A833.svg?style=for-the-badge&logo=android&logoColor=white" height="55" width="80"> <br><br/>
-<img src="https://img.shields.io/badge/-Anaconda-333333?style=flat&logo=Anaconda" height="50" width="80"><br><br/>
+<img src="https://img.shields.io/badge/Arduino-00979D.svg?style=for-the-badge&logo=arduino&logoColor=white" height="40" width="80"> <br><br/>
+<img src="https://img.shields.io/badge/-VScode-333333?style=flat&logo=visual-studio-code&logoColor=007ACC" height="25" width="80"> <br><br/>
+<img src="https://img.shields.io/badge/Android-44A833.svg?style=for-the-badge&logo=android&logoColor=white" height="40" width="80"> <br><br/>
+<img src="https://img.shields.io/badge/-Anaconda-333333?style=flat&logo=Anaconda" height="40" width="80"><br><br/>
 </div>
 <h1>
 </h1>
