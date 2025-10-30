@@ -133,7 +133,7 @@ Atentamente,
 <p style="font-size:11px; ">
 <h1 style="font-size:1em; "> ### 📝 Aplicaciones Oficina y Planificación </h1>
 <img height="50" width="50" alt="xls" src="https://github.com/user-attachments/assets/ba5dfdac-529e-4e55-b7ff-06de7759e667">
-<img src="https://img.shields.io/twitter/url?color=333333&label=MS%20Excel&logo=Microsoft%20Excel&url=https%3A%2F%2Fimg.shields.io%2Fbadge%2F-Windows-333333%3Fstyle%3Dflat%26logo%3DWindows"> <br><br>Misceláneos Logísticos (Ms Excel) <h6><br>
+<img src="https://img.shields.io/twitter/url?color=333333&label=MS%20Excel&logo=Microsoft%20Excel&url=https%3A%2F%2Fimg.shields.io%2Fbadge%2F-Windows-333333%3Fstyle%3Dflat%26logo%3DWindows"> <br><br>Misceláneos Logísticos (Excel) <h6><br>
 <p style="font-size:11px; "> 1 - Matriz de Riesgo Carga y Descarga.xlsx <br><ul><li>🎯 https://github.com/user-attachments/files/18776047/Matriz.de.Riesgo.Carga.y.Descarga.xlsx </li></ul></p>
 <p style="font-size:11px; "> 2 - KPI Logistica & Almacén 2018.xlsx <br><ul><li>🎯 https://github.com/user-attachments/files/18776051/KPI.Logistica.Almacen.2018.xlsx </li></ul></p>
 <p style="font-size:11px; "> 3 - Plan a 6 semanas Logística y Almacén.xlsx <br><ul><li>🎯 https://github.com/user-attachments/files/18776192/Plan.a.6.semanas.Logistica.y.Almacen.xlsx </li></ul></p>
@@ -143,7 +143,7 @@ Atentamente,
 <br/>
 
 <p style="font-size:11px; ">
-<img height="50" width="50" alt="Pj"  src="https://github.com/user-attachments/assets/7ef1ca23-5026-46b7-aed8-4be9588a4a6c"><br><br>Misceláneos Planificación(Ms Project):<h6>
+<img height="50" width="50" alt="Pj"  src="https://github.com/user-attachments/assets/7ef1ca23-5026-46b7-aed8-4be9588a4a6c"> <br><br>Misceláneos Planificación(Project):<h6>
 <h1>
 </h1>
 <br/>
