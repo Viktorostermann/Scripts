@@ -53,13 +53,12 @@ Atentamente,
  
 <div style="text-align: left;">
 <h1 style="font-size:1em; "> ###☕️ SO / Terminales / Maquinas Virtuales </h1> 
-<img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell script" width="120" height="40"> <br><br/>
+<img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell script" width="120" height="40"> <br> <br/>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" height="30" width="100" alt="OS-Windown"> <br><br/>
 
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="30" width="100" alt="OS-Linux"><br>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="30" width="100" alt="OS-Linux"><br> <br/>
 <p style="font-size:11px; "> 1 - Demostración de conexion con SSH Terminales locales, Remotos con Virtual Machine:<br>
 <br><ul><li>🎯https://drive.google.com/file/d/1x2JmXHW9l95NQ1R27HbZ7L3C4_yHcd20/view?usp=sharing </li> </ul> <div> </div>
-</div>
 <h1>
 </h1>
 <br/>
