@@ -9,7 +9,7 @@ Quedo a su disposición para conversar sobre cómo puedo aportar a su organizaci
 Atentamente,
 
 [Victor Miletic]
-<br></br>
+<br>
 
 ## Archivos repositorios sobre Proyectos de Investigación y Desarrollos 
 
@@ -29,11 +29,12 @@ Atentamente,
 <h1>
 </h1>
 <div></div>
-</br>
 
-<div style="text-align: left;"> 
-<img height="45" width="58" alt="arduino logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"><br>
-<img src="https://img.shields.io/badge/Arduino-00979D.svg?style=for-the-badge&logo=arduino&logoColor=white" height="150" width="60"><br></br>
+
+<div style="text-align: left;">
+<img height="30" width="90"  alt="arduino logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"><br>
+<img src="https://img.shields.io/badge/Arduino-00979D.svg?style=for-the-badge&logo=arduino&logoColor=white" height="30" width="90" ><br>
+ <br>
 <p style="font-size:11px; "> 1 - Script_Semaforo_Arduino <br><ul><li>🎯 https://github.com/user-attachments/files/18760505/Semaforo_Con_Ultrasonido.txt </li></ul></p><br>
 <p style="font-size:11px; "> 2 - Script_Semaforo_Arduino_2 <br><ul><li>🎯 https://github.com/user-attachments/files/18760585/SemaForo_21_08_23_V2_Final.txt </li></ul></p>
 </div>
@@ -43,8 +44,8 @@ Atentamente,
 
 <div style="text-align: left;"> 
 <h1 style="font-size:1em; "> ### 📝Lenguaje de Marcado y Diseño </h1>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25" width="75" alt="css"><br><br/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="40" width="75" alt="html5"></li></ul></p>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="35" width="75" alt="css"><br><br/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="40" width="75" alt="html5"><br><br/>
 </div>
 <h1>
 </h1>
@@ -52,24 +53,23 @@ Atentamente,
  
 <div style="text-align: left;">
 <h1 style="font-size:1em; "> ###☕️ SO / Terminales / Maquinas Virtuales </h1> 
-<img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell script" width="120" height="40"> <br><br/>
+<img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell script" width="120" height="40"> <br> <br/>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" height="30" width="100" alt="OS-Windown"> <br><br/>
 
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="30" width="100" alt="OS-Linux"><br>
-<p style="font-size:11px; "> 1 - Demostración de conexion con SSH Terminales locales, Remotos con Virtual Machine: 
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="30" width="100" alt="OS-Linux"><br> <br/>
+<p style="font-size:11px; "> 1 - Demostración de conexion con SSH Terminales locales, Remotos con Virtual Machine:<br>
 <br><ul><li>🎯https://drive.google.com/file/d/1x2JmXHW9l95NQ1R27HbZ7L3C4_yHcd20/view?usp=sharing </li> </ul> <div> </div>
-</div>
 <h1>
 </h1>
 <br/>
 
 <div style="text-align: left;">
 <h1 style="font-size:1em; "> ###☕️Lenguajes </h1>
-<img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" height="150" width="90"> <br><br/>
-<img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" height="150" width="90"> <br><br/>
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python" height="150" width="90"> <br><br/>
+<img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" height="50" width="150"> <br><br/>
+<img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" height="50" width="150"> <br><br/>
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python" height="50" width="150"> <br><br/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java" height="25" width="90"> <br><br/>
-<img src="https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white" height="25" width="90"> </li></ul></p>
+<img src="https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white" height="25" width="90"><br><br/>
 </div>
 <h1>
 </h1>
@@ -77,10 +77,10 @@ Atentamente,
 
 <div style="text-align: left;">
 <h1 style="font-size:1em; "> ### ⚛️ Frameworks </h1> 
-<img src="https://img.shields.io/badge/Angular-DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" height="45" width="100"> <br><br/>
-<img src="https://img.shields.io/badge/react.js-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black" height="45" width="100"> <br><br/>
+<img src="https://img.shields.io/badge/Angular-DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" height="35" width="100"> <br><br/>
+<img src="https://img.shields.io/badge/react.js-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black" height="40" width="100"> <br><br/>
 <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" height="30" width="100"> <br><br/>
-<img src="https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" height="25" width="100"> </li></ul></p>
+<img src="https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" height="25" width="100"><br><br/>
 </div>
 <h1>
 </h1>
@@ -90,7 +90,7 @@ Atentamente,
 <h1 style="font-size:1em; "> ### 📝Software (VCS) / Sistemas para Control de Versiones </h1>
 <img src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white"><br><br/>
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"><br><br/>
-<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git"> </li></ul></p>
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git"><br><br/>
 </div>
 <h1>
 </h1>
@@ -98,11 +98,11 @@ Atentamente,
  
 <div style="text-align: left;">
 <h1 style="font-size:1em; "> ### 🐬Database </h1> 
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" height="120" width="100" ><br><br/>
-<img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" height="100" width="100" ><br><br/>
-<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" height="50" width="100" ><br><br/>
-<img src="https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white" height="50" width="100" ><br><br/>
-<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" height="55" width="100" > </li></ul></p>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" height="40" width="100" ><br><br/>
+<img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" height="40" width="100" ><br><br/>
+<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" height="40" width="100" ><br><br/>
+<img src="https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white" height="40" width="100" ><br><br/>
+<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" height="40" width="100" ><br><br/>
 </div>
 <h1>
 </h1>
@@ -110,7 +110,7 @@ Atentamente,
 
 <div style="text-align: left;">
 <h1 style="font-size:1em; "> ### 🐙 IA  </h1>
-<img src="https://img.shields.io/badge/open_ai_api-412991.svg?style=for-the-badge&logo=openai&logoColor=white" height="80" width="100"> </li></ul></p>
+<img src="https://img.shields.io/badge/open_ai_api-412991.svg?style=for-the-badge&logo=openai&logoColor=white" height="40" width="100"> <br><br/>
 </div>
 <h1>
 </h1>
@@ -119,11 +119,11 @@ Atentamente,
 
 <div style="text-align: left;">
 <h1 style="font-size:1em; "> ### 📝 Entornos para el Desarrollo de Software (IDES) </h1>
-<img height="50" width="80" alt="arduino logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"><br>
-<img src="https://img.shields.io/badge/Arduino-00979D.svg?style=for-the-badge&logo=arduino&logoColor=white" height="150" width="80"><br></br>
-<img src="https://img.shields.io/badge/-VScode-333333?style=flat&logo=visual-studio-code&logoColor=007ACC" height="23" width="80"> <br><br/>
-<img src="https://img.shields.io/badge/Android-44A833.svg?style=for-the-badge&logo=android&logoColor=white" height="55" width="80"> <br><br/>
-<img src="https://img.shields.io/badge/-Anaconda-333333?style=flat&logo=Anaconda" height="70" width="80"> </li></ul></p>
+<img height="50" width="80" alt="arduino logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"> <br><br/>
+<img src="https://img.shields.io/badge/Arduino-00979D.svg?style=for-the-badge&logo=arduino&logoColor=white" height="40" width="80"> <br><br/>
+<img src="https://img.shields.io/badge/-VScode-333333?style=flat&logo=visual-studio-code&logoColor=007ACC" height="25" width="80"> <br><br/>
+<img src="https://img.shields.io/badge/Android-44A833.svg?style=for-the-badge&logo=android&logoColor=white" height="40" width="80"> <br><br/>
+<img src="https://img.shields.io/badge/-Anaconda-333333?style=flat&logo=Anaconda" height="40" width="80"><br><br/>
 </div>
 <h1>
 </h1>
@@ -133,20 +133,17 @@ Atentamente,
 <p style="font-size:11px; ">
 <h1 style="font-size:1em; "> ### 📝 Aplicaciones Oficina y Planificación </h1>
 <img height="50" width="50" alt="xls" src="https://github.com/user-attachments/assets/ba5dfdac-529e-4e55-b7ff-06de7759e667">
-<img src="https://img.shields.io/twitter/url?color=333333&label=MS%20Excel&logo=Microsoft%20Excel&url=https%3A%2F%2Fimg.shields.io%2Fbadge%2F-Windows-333333%3Fstyle%3Dflat%26logo%3DWindows">
-<br><br></picture>Misceláneos Logísticos (Ms Excel) <h6><br>
+<img src="https://img.shields.io/twitter/url?color=333333&label=MS%20Excel&logo=Microsoft%20Excel&url=https%3A%2F%2Fimg.shields.io%2Fbadge%2F-Windows-333333%3Fstyle%3Dflat%26logo%3DWindows"> <br><br>Misceláneos Logísticos (Excel) <h6><br>
 <p style="font-size:11px; "> 1 - Matriz de Riesgo Carga y Descarga.xlsx <br><ul><li>🎯 https://github.com/user-attachments/files/18776047/Matriz.de.Riesgo.Carga.y.Descarga.xlsx </li></ul></p>
 <p style="font-size:11px; "> 2 - KPI Logistica & Almacén 2018.xlsx <br><ul><li>🎯 https://github.com/user-attachments/files/18776051/KPI.Logistica.Almacen.2018.xlsx </li></ul></p>
 <p style="font-size:11px; "> 3 - Plan a 6 semanas Logística y Almacén.xlsx <br><ul><li>🎯 https://github.com/user-attachments/files/18776192/Plan.a.6.semanas.Logistica.y.Almacen.xlsx </li></ul></p>
 <p style="font-size:11px; "> 4 - Curva_Avance_Planta 09-07-07.xls <br><ul><li>🎯 https://github.com/user-attachments/files/18776199/Curva_Avance_Planta.09-07-07.xls </li></ul></p>
-</div>
 <h1>
 </h1>
 <br/>
 
 <p style="font-size:11px; ">
-<img height="50" width="50" alt="Pj"  src="https://github.com/user-attachments/assets/7ef1ca23-5026-46b7-aed8-4be9588a4a6c"><br><br></picture> Misceláneos Planificación(Ms Project):<h6> </li></ul></p>
-</div>
+<img height="50" width="50" alt="Pj"  src="https://github.com/user-attachments/assets/7ef1ca23-5026-46b7-aed8-4be9588a4a6c"> <br><br>Misceláneos Planificación(Project):<h6>
 <h1>
 </h1>
 <br/>
