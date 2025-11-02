@@ -1,4 +1,5 @@
-class Fruta():
+
+class Caja_de_Frutas():
     def __init__(self, nombre, color, peso, caducidad, sabor):
         self.nombre = nombre
         self.color = color
@@ -11,14 +12,14 @@ class Fruta():
 
 # Ejemplo de uso con una fruta (Manzana)
 print("")
-manzana = Fruta("manzana", "rojo", peso = 150, caducidad = 15, sabor = "ácido")
+manzana = Caja_de_Frutas("manzana", "rojo", peso = 150, caducidad = 15, sabor = "ácido")
 manzana.descripcion()
 print("Lista de atributos del objeto manzana: ", manzana.__dict__) # Muestra los atributos del objeto manzana como diccionario.
 print("")
 
 # Ejemplo de uso con otra fruta (Banana)
 print("")
-banana = Fruta("banana", "amarillo", peso = 120, caducidad = 7, sabor= "dulce")
+banana = Caja_de_Frutas("banana", "amarillo", peso = 120, caducidad = 7, sabor= "dulce")
 banana.descripcion()
 print("Lista de atributos del objeto banana: ", list(banana.__dict__.keys())) # Muestra los atributos del objeto banana como diccionario.
 print("") 
