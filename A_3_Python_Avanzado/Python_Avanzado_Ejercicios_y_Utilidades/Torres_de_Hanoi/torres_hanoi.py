@@ -87,3 +87,6 @@ if __name__ == '__main__':
 
     input('Presiona enter para salir...')
     print("")
+
+    print("") 
+    print("¡Gracias por usar el simulador de Torres de Hanoi! 👋")

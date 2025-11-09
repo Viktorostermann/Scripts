@@ -20,8 +20,27 @@ def buscar_cantidad_producto(inventario, codigo_producto, inicio = 0, fin= None)
 
         # Caso base:
         return inventario[medio]['cantidad']
-    elif inventario[medio]['codigo'] == codigo_producto:
-        
-        # El codigo va a estar en lado derecho del inventario
-        return buscar_cantidad_producto(inventario, codigo_producto, inicio, medio - 1)
+    elif inventario[medio]['codigo'] <codigo_producto:
 
+        # El codigo va a estar en lado derecho del inventario
+        return buscar_cantidad_producto(inventario, codigo_producto, medio + 1, fin)
+    else:
+        # El codigo va a estar en lado izquierdo del inventario
+        return buscar_cantidad_producto(inventario, codigo_producto, inicio, medio - 1)
+    
+
+# Declarar inventario
+
+inventario = [
+        {'codigo': 101, 'cantidad': 50},
+        {'codigo': 204, 'cantidad': 30},
+        {'codigo': 307, 'cantidad': 80},
+        {'codigo': 412, 'cantidad': 20},
+        {'codigo': 515, 'cantidad': 40},
+    ]
+
+codigo_producto = 515
+cantidad_disponible = buscar_cantidad_producto(inventario, codigo_producto)
+print("")
+print(f"Cantidad disponible para el producto con código {codigo_producto} es de: {cantidad_disponible}")
+print("")
