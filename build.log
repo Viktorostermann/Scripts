@@ -3,10 +3,13 @@
 [LANGUAGE-FORCE] cpp_engine/ → C++, csharp_tools/ → C#, c_base/ → C
 [LANGUAGE-FORCE] Archivos individuales forzados: setup_flask.txt → Python, main.cs → C#
 [LANGUAGE-FORCE] Recursos gráficos y sonoros excluidos de estadísticas
+[ISSUE-IGN] PYTHON_SQL_INJECTION_CHECK → Reactivado para auditoría de seguridad
+[ISSUE-IGN] JS_XSS_WARNING → Ignorado, falso positivo en librería validada
+
 [GLF] Forzado de lenguajes aplicado a archivos XML, Excel y Project para visibilidad técnica en GitHub.
 [GLF] Forzado de lenguajes aplicado. Archivos XML y CSV no reflejados en estadísticas por bajo umbral de líneas o exclusión por carpeta.
-
 [GLF] Auditoría de visibilidad técnica
+
 [IGN] .ConquerBlocks/bin/cv
 [IGN] .ConquerBlocks/bin/dmypy
 [IGN] .ConquerBlocks/bin/dotenv
@@ -21765,3 +21768,12 @@
 [IGN] .ConquerBlocks/lib/python3.12/site-packages/wrapt/wrappers.py
 [IGN] .ConquerBlocks/share/man/man1/ttx.1
 [IGN] Python_Intermedio/Tema_4_Listas_Arrays/Modulos/__pycache__/Constantes.cpython-310.pyc
+[ISSUE-IGN] Preflight iniciado: sáb 08 nov 2025 21:10:31 -05
+[ISSUE-IGN] ERROR: No se encontró ./amazonq_config.json
+[ISSUE-IGN] Preflight iniciado: sáb 08 nov 2025 21:10:49 -05
+[ISSUE-IGN] ERROR: No se encontró ./amazonq_config.json
+[ISSUE-IGN] Preflight iniciado: sáb 08 nov 2025 21:14:09 -05
+[ISSUE-IGN] Issues ignorados detectados:
+[ISSUE-IGN] PYTHON_SQL_INJECTION_CHECK → Validado manualmente
+[ISSUE-IGN] JS_XSS_WARNING → Validado manualmente
+[ISSUE-IGN] Preflight finalizado: sáb 08 nov 2025 21:14:09 -05

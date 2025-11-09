@@ -1,0 +1,17 @@
+{
+  "IgnoredSecurityIssues": [
+    "JS_XSS_WARNING"
+  ],
+
+  "Notes": {
+    "PYTHON_SQL_INJECTION_CHECK": "Reactivado para auditoría de seguridad, Amazon Q debe reportar cualquier riesgo de SQL injection.",
+    "JS_XSS_WARNING": "Ignorado porque es falso positivo en librería validada."
+  },
+
+  "Metadata": {
+    "LastUpdated": "2025-11-08",
+    "Maintainer": "Viktore",
+    "Acronym": "ISSUE-IGN",
+    "LogFile": "./build.log"
+  }
+}
