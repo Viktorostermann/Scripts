@@ -1,14 +1,20 @@
 '''Funciones Lambda:
+
 Ejercicio 4:
+
 Problema de Organización de Datos Empresariales:
+
 Imagina que trabajas en una empresa internacional con equipos distribuidos en
 diferentes países. Cada equipo tiene una lista de empleados, representados
 como diccionarios, con información sobre el nombre, la edad y el rendimiento
 en proyectos recientes.
+
 Tu tarea es organizar una lista consolidada de todos los empleados de la
 empresa. La organización debe seguir ciertas reglas:
+
 1. Los empleados se deben ordenar por el rendimiento en proyectos recientes
 de forma descendente.
+
 2. Para aquellos con el mismo rendimiento, se deben ordenar por edad de
 forma ascendente. Además, deseas agrupar a los empleados por país para
 un análisis más efectivo. Utiliza funciones lambda.'''
