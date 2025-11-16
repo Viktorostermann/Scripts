@@ -152,6 +152,7 @@ venv.bak/
 .mypy_cache/
 .dmypy.json
 dmypy.json
+amazonq_config.json
 
 # Pyre type checker
 .pyre/
@@ -171,3 +172,15 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Requirements
+requirements.txt
+
+# Builds
+build.log/
+
+# Modules & Scripts
+verificacion_ignore.py
+preflight_issues.sh
+
+
