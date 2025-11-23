@@ -5,7 +5,7 @@ import pandas as pd
 import pandas as pd
 
 # tu archivo usa punto y coma como separador
-df = pd.read_csv("/home/viktore/Documentos/2-Python/A_4_Bonus_Estadistica_Aplicada/salary_data.csv", sep=";")
+df = pd.read_csv("/home/viktore/Documentos/2-Python/Clase_1_Bonus_Estadistica_Aplicada/salary_data.csv", sep=";")
 
 print("")
 print("✅ Archivo cargado correctamente")
