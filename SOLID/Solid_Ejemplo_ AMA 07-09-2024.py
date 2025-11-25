@@ -91,11 +91,11 @@ class Calculo_Pintura:   # Clase para calcular el perimetro de un cuadrado
 # Division de clases en base a BARCOS: 
 
 # --> (Open-Closed = Los metodos de los hijos no pueden usar los metodos de los padres o reemplazar los metodos de los padres) 
-       # Ejemplo: Un barco siempre sera un BARCO. 
+# Ejemplo: Un barco siempre sera un BARCO. 
 
 # --> (Liskov Principle = Los metodos de los hijos puede usar o reemplazar los metodos de los padres)
-        # Ejemplo: Un barco puede ser un barco, pero tambien
-          
+# Ejemplo: Un barco puede ser un barco, pero tambien
+
 
 # SOLID -> 2. open-closed principle (Principio de abierto-cerrado) Liskov Principle
 
@@ -112,8 +112,8 @@ class Barco_a_Motor(BARCO):  # Clase para calcular el area de un barco motora
     def __init__(self, valor1, valor2): # El metodo estatico se usa para que no se cree una instancia de la clase ya que no se necesita
         self.valor1 = valor1
         self.valor2 = valor2
-            
-    
+
+
     def obtener_area(self): # Modificar segun los parametros de un barco motora (Ejemplo)
         return self.valor1 * self.valor2 * 0.5 # Se retorna el area del barco motora (Ejemplo: area = eslora * manga + calado) * 0.85 ) 
 #---------------------------------------------------------------------------------------------------------------------------    
@@ -123,7 +123,7 @@ class Barco_Pesquero(BARCO): # Clase para calcular el area de un barco pesquero
     def __init__(self, valor1, valor2): # El metodo estatico se usa para que no se cree una instancia de la clase ya que no se necesita
         self.valor1 = valor1
         self.valor2 = valor2
-    
+
     def obtener_area(self): # Modificar segun los parametros de un barco pesquero (Ejemplo)
         return self.valor1 * self.valor2 * 0.75 # Se retorna el area del barcopesquero (Ejemplo)
 #---------------------------------------------------------------------------------------------------------------------------
@@ -133,7 +133,7 @@ class Barco_Velero(BARCO): # Clase para calcular el area de un barco pesquero
     def __init__(self, valor1, valor2): # El metodo estatico se usa para que no se cree una instancia de la clase ya que no se necesita
         self.valor1 = valor1
         self.valor2 = valor2
-    
+
     def obtener_area(self): # Modificar segun los parametros de un barco velero (Ejemplo)
         return self.valor1 * self.valor2 * 0.8 # Se retorna el area del barco velero (Ejemplo)
 #---------------------------------------------------------------------------------------------------------------------------
@@ -143,7 +143,7 @@ class Barco_de_Guerra(BARCO): # Clase para calcular el area de un barco de guerr
     def __init__(self, valor1, valor2): # El metodo estatico se usa para que no se cree una instancia de la clase ya que no se necesita
         self.valor1 = valor1
         self.valor2 = valor2
-    
+
     def obtener_area(self): # Modificar segun los parametros de un barco de guerra (Ejemplo)
         return self.valor1 * self.valor2 # Se retorna el area del barco de guerra (Ejemplo)
 #---------------------------------------------------------------------------------------------------------------------------    
@@ -178,13 +178,13 @@ class Calculadora_de_Barcos: # Clase para calcular el area de un barco:
         self.barco = barco
         self.Traductor = Traductor
 
-    
+
     def calculo_y_Traducccion(self): # El metodo estatico se usa para que no se cree una instancia de la clase ya que no se necesita
         area = self.barco.obtener_area() # Se instancia la clase barco y se retorna el area del barco (Ejemplo)
         areaPies = Calculo_Area.calculo_cuadrados(area) # Se instancia la clase calculo_area y se retorna el area del barco (Ejemplo)
         antiFouling = Calculo_Pintura.calcular_antifouling(area) # Se instancia la clase calculo_pintura y se retorna el area del barco (Ejemplo)
         primer = Calculo_Pintura.calcular_primer(area) # Se instancia la clase calculo_pintura y se retorna el area del barco (Ejemplo)
-        
+
         resultadoOriginal = (
             f" Area: {area} metros cuadrados, AntiFouling: {antiFouling} pinturas, Primer: {primer} pinturas"
         )
