@@ -6,11 +6,17 @@ class Animal:
     def hacer_sonido(self):
         pass
 
-class Conejo(Animal):
+class Conejo(Animal): # Sub Clase o CLase Hija de la clase Animal
     def hacer_sonido(self):
         return "Squeak"
 mi_conejo = Conejo("Bunny")
 #print(f"{mi_conejo.nombre} dice: {mi_conejo.hacer_sonido()}")
+
+class Leon(Animal): # Sub Clase o CLase Hija de la clase Animal
+    def hacer_sonido(self):
+        return "Ruge"
+mi_leon = Leon("Simba")
+#print(f"{mi_leon.nombre} dice: {mi_leon.hacer_sonido()}")
 
 
 # Ejericio 2: Herencia múltiple
@@ -20,7 +26,6 @@ class Vehiculo:
         self.modelo = modelo
     def conducir(self):
         return "Run , run"
-
 
 '''class Persona(Vehiculo, Animal):
     def __init__(self, nombre, marca, modelo):
@@ -39,15 +44,20 @@ print(persona1.conducir())'''
 # Clases compuestas (Composicion)
 
 class Persona:
-    def __init__(self, nombre, vehiculo):
+    def __init__(self, nombre, vehiculo, mi_leon):
         self.nombre = nombre
         self.vehiculo = vehiculo
+        self.mi_leon = mi_leon
 
     def presentarse(self):
-        return f"Hola, soy {self.nombre} y tengo un {self.vehiculo.marca} {self.vehiculo.modelo}"
+        print("")
+        return f"Hola, soy {self.nombre} y tengo un {self.vehiculo.marca} {self.vehiculo.modelo} tambien tengo una mascota y se llama {self.mi_leon.nombre} es un león y {self.mi_leon.hacer_sonido()}"
 
 vehiculo1= Vehiculo("Honda", "Civic")
-persona2 = Persona("Victor", vehiculo1)
+mi_leon = Leon("Simba")
+persona2 = Persona("Victor", vehiculo1, mi_leon)
 
 print(persona2.presentarse())
-print(persona2.vehiculo.conducir())
+print("")
+
+
