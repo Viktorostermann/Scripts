@@ -1,3 +1,12 @@
+# Ordenamiento de CLases con SOLID aplicacndo el pincipio de Responsabilidad Unica con Acoplamiento de Clases.
+# EL uso de clases acopladas va en contra del principio de responsabilidad unica, 
+# ya que una clase asume multiples responsabilidades y depende de otras clases para cumplir con su funcion.
+# Por lo tanto, se recomienda evitar el acoplamiento excesivo entre clases.
+# Debido a que una clase debe tener una, y solo una, razón para cambiar.
+# Entonces el acoplamiento se refiere a la dependencia entre clases de manera directa.  
+
+
+
 class Engine:
     def __init__(self):
         pass

@@ -1,3 +1,10 @@
+# Ordenamiento de CLases con SOLID aplicacndo el pincipio de Responsabilidad Unica y Desacoplamiento.
+# Este principio establece que una clase debe tener una, y solo una, razón para cambiar. 
+# Y que las clases deben estar desacopladas entre si. 
+# Quiere decir que una clase no debe depender de los detalles de otra clase para funcionar, sino de una abstracción
+# es decir, una clase debe ser independiente de otras clases para su funcionamiento.
+# Esto facilita el mantenimiento y la escalabilidad del código.
+
 # -------------------------------------------------------
 class Engine:
     def getRPM(self):
