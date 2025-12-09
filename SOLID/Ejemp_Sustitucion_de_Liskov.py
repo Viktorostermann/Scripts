@@ -20,6 +20,7 @@ class PagoTarjeta(MetodoPago):
 
     def procesar_pago(self, monto):
         print(f"Procesando pago de {monto} con tarjeta {self.numero_tarjeta}")
+        print("")
 # ___________________________________________________________________________________________________
 
 class PagoPayPal(MetodoPago):
@@ -27,6 +28,7 @@ class PagoPayPal(MetodoPago):
         self.cuenta_paypal = cuenta_paypal
     def procesar_pago(self, monto):
         print(f"Procesando pago de {monto} usando cuenta de PayPal {self.cuenta_paypal}")
+        print("")
 # ___________________________________________________________________________________________________
 
 class PagoBitcoin(MetodoPago):
@@ -34,6 +36,7 @@ class PagoBitcoin(MetodoPago):
         self.direccion_bitcoin = direccion_bitcoin
     def procesar_pago(self, monto):
         print(f"Procesando pago de {monto} usando cuenta de Bitcoin {self.direccion_bitcoin}")
+        print("")
 # ___________________________________________________________________________________________________
 
 class PagoCheque(MetodoPago):
@@ -41,8 +44,10 @@ class PagoCheque(MetodoPago):
         self.numero_cheque = numero_cheque
     def procesar_pago(self, monto):
         raise NotImplementedError("El pago con cheque no es soportado de manera automatizada.")
+    print("")
     def procesar_cheque(self, monto):
         print(f"Procesando cheque numero {self.numero_cheque} por un monto de {monto}")
+        print("")
 # ___________________________________________________________________________________________________
 
 def realizar_pago(metodo_pago:MetodoPago, monto):
@@ -64,5 +69,6 @@ try:
     realizar_pago(pago_cheque, 300)
 except NotImplementedError as e:
     print(e)
+    print("")
 
 pago_cheque.procesar_cheque(300)  # Metodo especifico para procesar cheques
