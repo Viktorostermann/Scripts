@@ -9,12 +9,14 @@
 # El principio de sustitucion de Liskov se aplica a la programacion orientada a objetos.
 # En la programacion orientada a objetos, las subclases deben ser capaces de reemplazar a sus superclases sin alterar el comportamiento de la aplicacion.
 
-class MetodoPago:
+## Metodos de Pago Automatizados
+
+class MetodoPagoAutomatico:
     def procesar_pago(self, monto):
         pass
 # ___________________________________________________________________________________________________
 
-class PagoTarjeta(MetodoPago):
+class PagoTarjeta(MetodoPagoAutomatico):
     def __init__ (self, numero_tarjeta):
         self.numero_tarjeta = numero_tarjeta
 
@@ -23,7 +25,7 @@ class PagoTarjeta(MetodoPago):
         print("")
 # ___________________________________________________________________________________________________
 
-class PagoPayPal(MetodoPago):
+class PagoPayPal(MetodoPagoAutomatico):
     def __init__ (self, cuenta_paypal):
         self.cuenta_paypal = cuenta_paypal
     def procesar_pago(self, monto):
@@ -31,44 +33,73 @@ class PagoPayPal(MetodoPago):
         print("")
 # ___________________________________________________________________________________________________
 
-class PagoBitcoin(MetodoPago):
+class PagoBitcoin(MetodoPagoAutomatico):
     def __init__ (self, direccion_bitcoin):
         self.direccion_bitcoin = direccion_bitcoin
     def procesar_pago(self, monto):
         print(f"Procesando pago de {monto} usando cuenta de Bitcoin {self.direccion_bitcoin}")
         print("")
+
+## Metodos de Pago Manuales
+
+                            ## No cumplen con el principio de Liskov ##
+
 # ___________________________________________________________________________________________________
 
-class PagoCheque(MetodoPago):
+# Clase Metodo de pago manual
+
+class MetodoPagoManual:
+    def procesar_cheque(self, monto):
+        pass
+
+# ___________________________________________________________________________________________________
+
+# Clase que viola el principio de Liskov
+
+class PagoCheque(MetodoPagoManual):
     def __init__ (self, numero_cheque):
         self.numero_cheque = numero_cheque
+
     def procesar_pago(self, monto):
         raise NotImplementedError("El pago con cheque no es soportado de manera automatizada.")
     print("")
+
     def procesar_cheque(self, monto):
         print(f"Procesando cheque numero {self.numero_cheque} por un monto de {monto}")
         print("")
+    
 # ___________________________________________________________________________________________________
 
-def realizar_pago(metodo_pago:MetodoPago, monto):
+# Funciones para realizar pagos
+
+def realizar_pago_automatico(metodo_pago:MetodoPagoAutomatico, monto):
     metodo_pago.procesar_pago(monto)
 
+def realizar_pago_manual(metodo_pago:MetodoPagoManual, monto):
+    metodo_pago.procesar_cheque(monto)
+
+# _________________________________________________________________________________________________
+
+
 #Instanciar las clases
+
 pago_tarjeta = PagoTarjeta("1234 5678 9012 3456")
 pago_payPal = PagoPayPal("cuenta_paypal")
 pago_bitcoin = PagoBitcoin("direccion_bitcoin")
 pago_cheque = PagoCheque("123456789")
 
-realizar_pago(pago_tarjeta, 50)
-realizar_pago(pago_payPal, 100)
-realizar_pago(pago_bitcoin, 200)
-#realizar_pago(pago_cheque, 300) # Esto lanzara una excepcion, violando el principio de Liskov, ya que PagoCheque no puede sustituir a MetodoPago de manera adecuada.
+realizar_pago_automatico(pago_tarjeta, 100)
+realizar_pago_automatico(pago_payPal, 2000)
+realizar_pago_automatico(pago_bitcoin, 500)
+
+realizar_pago_manual(pago_cheque, 300) # Esto lanzara una excepcion, violando el principio de Liskov, ya que PagoCheque no puede sustituir a MetodoPago de manera adecuada.
+
 
 # Agregamos una excepcion para manejar el caso del cheque
-try:
-    realizar_pago(pago_cheque, 300)
+'''try:
+    realizar_pago_manual(pago_cheque, 3000)
 except NotImplementedError as e:
     print(e)
     print("")
 
-pago_cheque.procesar_cheque(300)  # Metodo especifico para procesar cheques
+pago_cheque.procesar_cheque(300) # Metodo especifico para procesar cheques'''
